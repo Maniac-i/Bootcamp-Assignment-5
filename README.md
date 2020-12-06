@@ -1,7 +1,7 @@
 # Bootcamp-Assignment-5
 Assignment 5 for OSU Bootcamp
 
-The goal of this project is to build a functioning Day Schedule. An importan aspect of this project was using the third party API Moment.js to display the current day and time of day. It also relied heavily on bootstrap to create the schedule interface and javascript to dynamically update CSS and HTML. One of the difficult parts of this project was currectly utilizing localStorage to keep inputted events upon reloading the page. 
+The goal of this project is to build a functioning Day Schedule. An importan aspect of this project was using the third party API Moment.js to display the current day and time of day. It also relied heavily on bootstrap to create the schedule interface and javascript to dynamically update CSS and HTML. One of the difficult parts of this project was correctly utilizing localStorage to keep inputted events upon reloading the page. 
 
 **GitHub Pages URL:**
 
